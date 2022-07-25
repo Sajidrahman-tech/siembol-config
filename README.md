@@ -4,4 +4,4 @@ To get started with [Siembol](https://siembol.io/), you'll need a couple of thin
 
 You can either use a single repository for the whole shebang, or you can set up separate repositories for each service and even use separate repositories to differentiate between the store and the release configs.
 
-If you want to demo [Siembol](https://siembol.io/) please fork this repository and follow the [Siembol quick start guide](https://github.com/G-Research/siembol/blob/main/docs/introduction/how-tos/quickstart.md)
+If you want to demo [Siembol](https://siembol.io/) please fork this repository and follow the [Siembol quick start guide](https://github.com/G-Research/siembol/blob/main/docs/introduction/how-tos/quickstart.md).
